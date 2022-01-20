@@ -53,13 +53,14 @@
   <summary>Expand</summary>
   
 * Slido polls 4
-* Video https://www.youtube.com/watch?v=M07df44RXOM
+
 
   ### Creating tables in Excel
   
   <details>
     <summary>Expand</summary>
     
+    * Video https://www.youtube.com/watch?v=M07df44RXOM 
     * Don't have anything above the first row of your table
     * Start in cell A1
     * Each column should have a header (variable name)
@@ -72,7 +73,11 @@
     
   </details>
   
-* Tidy data
+  ### Tidy data
+  
+    <details>
+    <summary>Expand</summary>
+    
     * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
     * Variables (columns)
     * Observations (rows)
@@ -83,18 +88,35 @@
     * Don't store multiple variables in a single column. 
     * Don't put values in columns.
     * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
-* Wide vs Long format
-    * Wide format has repeated measures in columns.
-    * Long format has repeated measures in rows.
-* Import table data from web resources in Excel
+    * Wide vs Long format
+      * Wide format has repeated measures in columns.
+      * Long format has repeated measures in rows.
+      
+  </details>
+  
+  ### Import table data from web resources in Excel
+  
+    <details>
+    <summary>Expand</summary>
+    
     * Example site: https://datatables.net/examples/data_sources/dom.html
     * Excel - Data - Get Data - From Web - URL (paste address of web page) - OK (You might have to click through a couple pages. Usually default settings work.)
     * When the Navigator window pops up, you can click through the available tables to see what you want. When you have the one you want click `Load`.
     * The data should import into a table in a new sheet.
-* Create a pivot table from a table in Excel. (Great for quick analysis/reporting.)
+      
+  </details>
+  
+  ### Create a pivot table from a table in Excel.
+  
+    <details>
+    <summary>Expand</summary>
+    
+    * Great for quick analysis/reporting.
     * Go to the sheet which has your data table.
     * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
     * Drag the fields desired to Rows, Columns, Values
+      
+  </details>
   
 </details>
 
