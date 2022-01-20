@@ -33,7 +33,30 @@
 <details>
   <summary>Expand</summary>
   
-* Slido polls
+* Slido polls 1 - 3
 * Slides https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/InformaticsAndStatistics.pdf
+  
+</details>
+
+## Some basic data skills
+
+<details>
+  <summary>Expand</summary>
+  
+* Slido polls 4
+* Video https://www.youtube.com/watch?v=M07df44RXOM
+* Creating tables in Excel
+    * Don't have anything above the first row of your table
+    * Start in cell A1
+    * Each column should have a header (variable name)
+    * Column names should be unique
+    * Avoid spaces in column names
+      * It's OK for Excel, but it's better not to have spaces if you may export your data for use in other analysis software.
+    * Remove any summary rows. Only have data rows.
+    * Don't merge cells. (Unmerge them if any exist.)
+    * Don't use formatting to code for meaning. (i.e. text color, highlighting) If you need to add some meaning to a row, create a new column to code that meaning with text/numbers.
+* Tidy data
+    * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
+    
   
 </details>
