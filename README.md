@@ -151,19 +151,15 @@
     <details>
     <summary>Expand</summary>
     
-    * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
-    * Variables (columns)
-    * Observations (rows)
-    * Values (the content of each cell)
-    * Hadley Wickham - "Tidy datasets are all alike but every messy dataset is messy in its own way."
-    * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
-    * No blank rows
-    * No heading rows other than the one at the top. (Make a new column with that information.)
-    * Don't store multiple variables in a single column. 
-    * Don't put values in columns.
-    * Wide vs Long format
-      * Wide format has repeated measures in columns.
-      * Long format has repeated measures in rows.
+    * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
+    * Output: https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/Descriptive%20Statistics%20and%20Plots.pdf
+    * Categorical variables
+      * Frequecy and percent
+    * Continuous variables
+      * Mean and standard deviation
+      * Median and range or interquartile range (skewed data)
+    * Measures of Central Tendency video: https://www.youtube.com/watch?v=kn83BA7cRNM&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
+    * Measures of Spread video: https://www.youtube.com/watch?v=R4yfNi_8Kqw&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
       
   </details>
   
@@ -172,10 +168,16 @@
     <details>
     <summary>Expand</summary>
     
-    * Example site: https://datatables.net/examples/data_sources/dom.html
-    * Excel - Data - Get Data - From Web - URL (paste address of web page) - OK (You might have to click through a couple pages. Usually default settings work.)
-    * When the Navigator window pops up, you can click through the available tables to see what you want. When you have the one you want click `Load`.
-    * The data should import into a table in a new sheet.
+    * Categorical variables
+      * Bar charts
+      * Pareto charts
+    * Continuous variables
+      * Histograms
+      * Box plots
+    * Relationships
+      * Scatterplots
+    * Plots video: https://www.youtube.com/watch?v=HMkllhBI91Y&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=8
+    * Correlation video: https://www.youtube.com/watch?v=GtV-VYdNt_g&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=10
       
     </details>
   
