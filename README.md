@@ -125,7 +125,7 @@
 <details>
   <summary>Expand</summary>
   
-* Slido polls 4
+* 
 
 
   ### Levels of Measurement
