@@ -136,5 +136,23 @@
   
 </details>
 
+## Case study: Grouping and prioritizing error messages
+
+<details>
+  <summary>Expand</summary>
+  
+* Problem: During a transition period with staff changes an Outlook inbox with error messages from an interface was unmonitored for a period of time. Approximately 390,000 messages had built up over a period of time.
+* Solution: 
+  * Read the messages. (Python was used to interface with Outlook, loop through the messages)
+  * Tabulate data. (Python was used to count duplicate messages and produce an Excel report with message information and counts.)
+  * Prioritize work. (Message counts were used to decide which errors to fix first. Higher counts took higher priority.)
+* Result:
+  * Over time error counts dropped with some days having 0 errors.
+* Lesson to be learned: 
+  * Simple statistical techniques like counts can lead to significant improvements and reduce workload.
+  
+</details>
+
 ## Questions?
+
 ## Thanks for participating! :)
