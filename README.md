@@ -196,10 +196,21 @@
     <details>
     <summary>Expand</summary>
     
-    * Great for quick analysis/reporting.
-    * Go to the sheet which has your data table.
-    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
-    * Drag the fields desired to Rows, Columns, Values
+    * What is the general purpose of what you're trying to accomplish?
+    * How does your purpose and your data source(s) affect the generalizability of your results?
+    * What question(s) are you trying to answer?
+    * When were the data collected?
+    * How were the data collected?
+    * How were the data handled?
+    * What variables are in your data set?
+    * What is the level of measurement for each variable? (This impacts how you will visualize it and report it.)
+    * Are there any problems with data accuracy?
+      * Typographical errors
+      * Values which don't make sense
+      * Categories which don't seem to match
+    * Are there any data transformations which should take place?
+    * Do any variables have missing data? How will you handle that?
+    * Do any variables have outliers? How will you handle that?
       
   </details>
   
