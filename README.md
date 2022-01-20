@@ -125,9 +125,6 @@
 <details>
   <summary>Expand</summary>
   
-* nothing
-
-
   ### Levels of Measurement
   
   <details>
