@@ -208,10 +208,15 @@
     <details>
     <summary>Expand</summary>
     
-    * Great for quick analysis/reporting.
-    * Go to the sheet which has your data table.
-    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
-    * Drag the fields desired to Rows, Columns, Values
+    * Tips
+      * Always provide context for the numbers you're reporting
+        * What are the lowest and highest possible values?
+        * Imagine how hard a graph without any scale numbers or scale markers/indicators is to read.
+      * When reporting summary scales that were derived from multiple individual questions, provide the list of which questions were used to calculate the scale.
+    * Categorical variables
+      * See descriptive statistics and plots sections above
+    * Continuous variables
+      * See descriptive statistics and plots sections above
       
   </details>
   
