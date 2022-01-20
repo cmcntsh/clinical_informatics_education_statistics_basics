@@ -137,7 +137,7 @@
     * Ratio - equal intervals and a true zero
     * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
     * Categorical vs Continuous
-    * When in doubt, collect the highest level of measurement. (You can always transform it later.)![image](https://user-images.githubusercontent.com/32034299/150281367-f783316d-8bef-4e0d-aaa5-1566b4f7d3fb.png)
+    * When in doubt, collect the highest level of measurement. (You can always transform it later.)
       
   </details>
   
