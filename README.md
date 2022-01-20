@@ -86,8 +86,55 @@
 <details>
   <summary>Expand</summary>
   
-* Slido polls 1 - 3
-* Slides https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/InformaticsAndStatistics.pdf
+* Levels of Measurement
+    * Nominal - mutually exclusive categories without particular order
+    * Ordinal - mutually exclusive categories with order
+    * Interval - equal intervals (distance between measurements)
+    * Ratio - equal intervals and a true zero
+    * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
+    * Categorical vs Continuous
+    * When in doubt, collect the highest level of measurement. (You can always transform it later.)![image](https://user-images.githubusercontent.com/32034299/150281367-f783316d-8bef-4e0d-aaa5-1566b4f7d3fb.png)
+* Descriptive statistics
+    * Categorical variables
+      * Frequecy and percent
+    * Continuous variables
+      * Mean and standard deviation
+      * Median and range or interquartile range (skewed data)
+    * Measures of Central Tendency video: https://www.youtube.com/watch?v=kn83BA7cRNM&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
+    * Measures of Spread video: https://www.youtube.com/watch?v=R4yfNi_8Kqw&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
+* Plots
+    * Categorical variables
+      * Bar charts
+      * Pareto charts
+    * Continuous variables
+      * Histograms
+      * Box plots
+    * Relationships
+      * Scatterplots
+    * Plots video: https://www.youtube.com/watch?v=HMkllhBI91Y&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=8
+    * Correlation video: https://www.youtube.com/watch?v=GtV-VYdNt_g&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=10
+* Comparisons
+    * z-scores (standardization)
+    * Video: https://www.youtube.com/watch?v=uAxyI_XfqXk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=20
+* Data screening
+  * What is the general purpose of what you're trying to accomplish?
+  * How does your purpose and your data source(s) affect the generalizability of your results?
+  * What question(s) are you trying to answer?
+  * When were the data collected?
+  * How were the data collected?
+  * How were the data handled?
+  * What variables are in your data set?
+  * What is the level of measurement for each variable? (This impacts how you will visualize it and report it.)
+  * Are there any problems with data accuracy?
+    * Typographical errors
+    * Values which don't make sense
+    * Categories which don't seem to match
+  * Are there any data transformations which should take place?
+  * Do any variables have missing data? How will you handle that?
+  * Do any variables have outliers? How will you handle that?![image](https://user-images.githubusercontent.com/32034299/150282481-f34bf88f-9d7f-4c4a-a7f8-77368dbc126c.png)
+* Slido polls 5
   
 </details>
 
+## Questions?
+## Thanks for participating! :)
