@@ -83,11 +83,11 @@
     * Observations (rows)
     * Values (the content of each cell)
     * Hadley Wickham - "Tidy datasets are all alike but every messy dataset is messy in its own way."
+    * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
     * No blank rows
     * No heading rows other than the one at the top. (Make a new column with that information.)
     * Don't store multiple variables in a single column. 
     * Don't put values in columns.
-    * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
     * Wide vs Long format
       * Wide format has repeated measures in columns.
       * Long format has repeated measures in rows.
