@@ -2,7 +2,8 @@
 
 01/20/2022
 
-Slido: https://wall.sli.do/event/7gqUV9n9GN9GGY8SoGHbQQ?section=ea1df556-6a63-4aa7-a0ac-4fc810f44061
+* Slido participation link: https://wall.sli.do/event/7gqUV9n9GN9GGY8SoGHbQQ?section=ea1df556-6a63-4aa7-a0ac-4fc810f44061
+* Slido admin link: https://admin.sli.do/event/7gqUV9n9GN9GGY8SoGHbQQ/polls
 
 ## Conflicts
 
@@ -32,6 +33,7 @@ Slido: https://wall.sli.do/event/7gqUV9n9GN9GGY8SoGHbQQ?section=ea1df556-6a63-4a
 <details>
   <summary>Expand</summary>
   
+* Slido polls
 * Slides https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/InformaticsAndStatistics.pdf
   
 </details>
