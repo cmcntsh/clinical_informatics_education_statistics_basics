@@ -125,32 +125,6 @@
 <details>
   <summary>Expand</summary>
   
-  
-  ### Levels of Measurement
-  
-    
-  
-  ### Descriptive statistics
-  
-    
-  
-  ### Plots
-  
-   
-  
-  ### Comparisons
-  
-    
-  
-  ### Data screening
-  
-  
-  
-  ### Reporting
-  
-  
-  
-  
 </details>
 
 ## Case study: Grouping and prioritizing error messages
