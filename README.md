@@ -184,10 +184,8 @@
     <details>
     <summary>Expand</summary>
     
-    * Great for quick analysis/reporting.
-    * Go to the sheet which has your data table.
-    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
-    * Drag the fields desired to Rows, Columns, Values
+    * z-scores (standardization)
+    * Video: https://www.youtube.com/watch?v=uAxyI_XfqXk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=20
       
   </details>
   
