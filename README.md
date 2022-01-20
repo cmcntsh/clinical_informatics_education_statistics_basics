@@ -133,16 +133,14 @@
   <details>
     <summary>Expand</summary>
     
-    * Video https://www.youtube.com/watch?v=M07df44RXOM 
-    * Don't have anything above the first row of your table
-    * Start in cell A1
-    * Each column should have a header (variable name)
-    * Column names should be unique
-    * Avoid spaces in column names
-      * It's OK for Excel, but it's better not to have spaces if you may export your data for use in other analysis software.
-    * Remove any summary rows. Only have data rows.
-    * Don't merge cells. (Unmerge them if any exist.)
-    * Don't use formatting to code for meaning. (i.e. text color, highlighting) If you need to add some meaning to a row, create a new column to code that meaning with text/numbers.
+    * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
+    * Nominal (mutually exclusive categories without particular order)
+    * Ordinal (mutually exclusive categories with order)
+    * Interval (equal intervals between measurements)
+    * Ratio (equal intervals and a true zero)
+    * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
+    * Categorical vs Continuous
+    * When in doubt, collect the highest level of measurement. (You can always transform it later.)
     
   </details>
   
