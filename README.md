@@ -69,5 +69,25 @@
 * Wide vs Long format
     * Wide format has repeated measures in columns.
     * Long format has repeated measures in rows.
+* Import table data from web resources in Excel
+    * Example site: https://datatables.net/examples/data_sources/dom.html
+    * Excel - Data - Get Data - From Web - URL (paste address of web page) - OK (You might have to click through a couple pages. Usually default settings work.)
+    * When the Navigator window pops up, you can click through the available tables to see what you want. When you have the one you want click `Load`.
+    * The data should import into a table in a new sheet.
+* Create a pivot table from a table in Excel. (Great for quick analysis/reporting.)
+    * Go to the sheet which has your data table.
+    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
+    * Drag the fields desired to Rows, Columns, Values
   
 </details>
+
+## Some basic statistical concepts
+
+<details>
+  <summary>Expand</summary>
+  
+* Slido polls 1 - 3
+* Slides https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/InformaticsAndStatistics.pdf
+  
+</details>
+
