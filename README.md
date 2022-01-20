@@ -128,7 +128,7 @@
 * nothing
 
 
-  ### Creating tables in Excel
+  ### Levels of Measurement
   
   <details>
     <summary>Expand</summary>
@@ -146,7 +146,7 @@
     
   </details>
   
-  ### Tidy data
+  ### Descriptive Statistics
   
     <details>
     <summary>Expand</summary>
@@ -167,7 +167,7 @@
       
   </details>
   
-  ### Import table data from web resources in Excel
+  ### Plots
   
     <details>
     <summary>Expand</summary>
@@ -179,7 +179,31 @@
       
     </details>
   
-  ### Create a pivot table from a table in Excel.
+  ### Comparisons
+  
+    <details>
+    <summary>Expand</summary>
+    
+    * Great for quick analysis/reporting.
+    * Go to the sheet which has your data table.
+    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
+    * Drag the fields desired to Rows, Columns, Values
+      
+  </details>
+  
+  ### Data Screening
+  
+    <details>
+    <summary>Expand</summary>
+    
+    * Great for quick analysis/reporting.
+    * Go to the sheet which has your data table.
+    * Insert - Pivot Table - The default settings usually work (New Worksheet) - Click `OK`
+    * Drag the fields desired to Rows, Columns, Values
+      
+  </details>
+  
+  ### Reporting
   
     <details>
     <summary>Expand</summary>
