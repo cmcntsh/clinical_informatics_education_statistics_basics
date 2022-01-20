@@ -125,6 +125,8 @@
 <details>
   <summary>Expand</summary>
   
+  ### A new heading
+  
 </details>
 
 ## Case study: Grouping and prioritizing error messages
