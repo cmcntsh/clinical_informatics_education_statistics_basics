@@ -28,6 +28,15 @@
   
 </details>
 
+## Case study preview
+
+<details>
+  <summary>Expand</summary>
+  
+* Problem: During a transition period with staff changes an Outlook inbox with error messages from an interface was unmonitored for a period of time. Approximately 390,000 messages had built up over about 3 months.
+  
+</details>
+
 ## Relationship between informatics and statistics
 
 <details>
@@ -45,7 +54,12 @@
   
 * Slido polls 4
 * Video https://www.youtube.com/watch?v=M07df44RXOM
-* Creating tables in Excel
+
+  ### Creating tables in Excel
+  
+  <details>
+    <summary>Expand</summary>
+    
     * Don't have anything above the first row of your table
     * Start in cell A1
     * Each column should have a header (variable name)
@@ -55,6 +69,9 @@
     * Remove any summary rows. Only have data rows.
     * Don't merge cells. (Unmerge them if any exist.)
     * Don't use formatting to code for meaning. (i.e. text color, highlighting) If you need to add some meaning to a row, create a new column to code that meaning with text/numbers.
+    
+  </details>
+  
 * Tidy data
     * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
     * Variables (columns)
@@ -144,7 +161,7 @@
 <details>
   <summary>Expand</summary>
   
-* Problem: During a transition period with staff changes an Outlook inbox with error messages from an interface was unmonitored for a period of time. Approximately 390,000 messages had built up over a period of time.
+* Problem: During a transition period with staff changes an Outlook inbox with error messages from an interface was unmonitored for a period of time. Approximately 390,000 messages had built up over about 3 months.
 * Solution: 
   * Read the messages. (Python was used to interface with Outlook, loop through the messages)
   * Tabulate data. (Python was used to count duplicate messages and produce an Excel report with message information and counts.)
@@ -153,6 +170,15 @@
   * Over time error counts dropped with some days having 0 errors.
 * Lesson to be learned: 
   * Simple statistical techniques like counts can lead to significant improvements and reduce workload.
+  
+</details>
+
+## Statistics resources
+
+<details>
+  <summary>Expand</summary>
+  
+* GitHub repository: https://github.com/cmcntsh/stats2021_topics
   
 </details>
 
