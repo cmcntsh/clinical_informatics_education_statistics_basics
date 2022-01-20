@@ -97,6 +97,7 @@
     * When in doubt, collect the highest level of measurement. (You can always transform it later.)![image](https://user-images.githubusercontent.com/32034299/150281367-f783316d-8bef-4e0d-aaa5-1566b4f7d3fb.png)
 * Descriptive statistics
     * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
+    * Output: https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/Descriptive%20Statistics%20and%20Plots.pdf
     * Categorical variables
       * Frequecy and percent
     * Continuous variables
