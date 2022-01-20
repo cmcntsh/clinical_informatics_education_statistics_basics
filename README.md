@@ -57,6 +57,17 @@
     * Don't use formatting to code for meaning. (i.e. text color, highlighting) If you need to add some meaning to a row, create a new column to code that meaning with text/numbers.
 * Tidy data
     * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
-    
+    * Variables (columns)
+    * Observations (rows)
+    * Values (the content of each cell)
+    * Hadley Wickham - "Tidy datasets are all alike but every messy dataset is messy in its own way."
+    * No blank rows
+    * No heading rows other than the one at the top. (Make a new column with that information.)
+    * Don't store multiple variables in a single column. 
+    * Don't put values in columns.
+    * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
+* Wide vs Long format
+    * Wide format has repeated measures in columns.
+    * Long format has repeated measures in rows.
   
 </details>
