@@ -125,108 +125,30 @@
 <details>
   <summary>Expand</summary>
   
-  * filler
   
   ### Levels of Measurement
   
-    <details>
-      <summary>Expand</summary>
     
-    * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
-    * Nominal - mutually exclusive categories without particular order
-    * Ordinal - mutually exclusive categories with order
-    * Interval - equal intervals (distance between measurements)
-    * Ratio - equal intervals and a true zero
-    * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
-    * Categorical vs Continuous
-    * When in doubt, collect the highest level of measurement. (You can always transform it later.)
-      
-    </details>
   
   ### Descriptive statistics
   
-    <details>
-      <summary>Expand</summary>
     
-    * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
-    * Output: https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/Descriptive%20Statistics%20and%20Plots.pdf
-    * Categorical variables
-      * Frequecy and percent
-    * Continuous variables
-      * Mean and standard deviation
-      * Median and range or interquartile range (skewed data)
-    * Measures of Central Tendency video: https://www.youtube.com/watch?v=kn83BA7cRNM&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
-    * Measures of Spread video: https://www.youtube.com/watch?v=R4yfNi_8Kqw&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
-      
-    </details>
   
   ### Plots
   
-    <details>
-      <summary>Expand</summary>
-    
-    * Categorical variables
-      * Bar charts
-      * Pareto charts
-    * Continuous variables
-      * Histograms
-      * Box plots
-    * Relationships
-      * Scatterplots
-    * Plots video: https://www.youtube.com/watch?v=HMkllhBI91Y&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=8
-    * Correlation video: https://www.youtube.com/watch?v=GtV-VYdNt_g&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=10
-      
-  </details>
+   
   
   ### Comparisons
   
-    <details>
-      <summary>Expand</summary>
     
-    * z-scores (standardization)
-    * Video: https://www.youtube.com/watch?v=uAxyI_XfqXk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=20
-      
-  </details>
   
   ### Data screening
   
-  <details>
-    <summary>Expand</summary>
-    
-    * What is the general purpose of what you're trying to accomplish?
-  * How does your purpose and your data source(s) affect the generalizability of your results?
-  * What question(s) are you trying to answer?
-  * When were the data collected?
-  * How were the data collected?
-  * How were the data handled?
-  * What variables are in your data set?
-  * What is the level of measurement for each variable? (This impacts how you will visualize it and report it.)
-  * Are there any problems with data accuracy?
-    * Typographical errors
-    * Values which don't make sense
-    * Categories which don't seem to match
-  * Are there any data transformations which should take place?
-  * Do any variables have missing data? How will you handle that?
-  * Do any variables have outliers? How will you handle that?
-    
-  </details>
+  
   
   ### Reporting
   
-  <details>
-    <summary>Expand</summary>
-    
-    * Tips
-    * Always provide context for the numbers you're reporting
-      * What are the lowest and highest possible values?
-      * Imagine how hard a graph without any scale numbers or scale markers/indicators is to read.
-    * When reporting summary scales that were derived from multiple individual questions, provide the list of which questions were used to calculate the scale.
-  * Categorical variables
-    * See descriptive statistics and plots sections above
-  * Continuous variables
-    * See descriptive statistics and plots sections above
-    
-  </details>
+  
   
   
 </details>
