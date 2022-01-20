@@ -128,13 +128,25 @@
 * 
 
 
-  ### Levels of Measurement
+  ### Tidy data
   
     <details>
-      <summary>Expand</summary>
+    <summary>Expand</summary>
     
-     
-    
+    * Video: https://www.youtube.com/watch?v=jpCz8dAYf0o
+    * Variables (columns)
+    * Observations (rows)
+    * Values (the content of each cell)
+    * Hadley Wickham - "Tidy datasets are all alike but every messy dataset is messy in its own way."
+    * Example of how not to structure for analysis. https://www.healthypeople.gov/2020/data-search/Search-the-Data?objid=4828
+    * No blank rows
+    * No heading rows other than the one at the top. (Make a new column with that information.)
+    * Don't store multiple variables in a single column. 
+    * Don't put values in columns.
+    * Wide vs Long format
+      * Wide format has repeated measures in columns.
+      * Long format has repeated measures in rows.
+      
   </details>
   
   ### Descriptive Statistics
