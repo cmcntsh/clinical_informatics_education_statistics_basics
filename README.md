@@ -125,7 +125,7 @@
 <details>
   <summary>Expand</summary>
   
-* Levels of Measurement
+  ### Levels of Measurement
     * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
     * Nominal - mutually exclusive categories without particular order
     * Ordinal - mutually exclusive categories with order
@@ -134,7 +134,8 @@
     * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
     * Categorical vs Continuous
     * When in doubt, collect the highest level of measurement. (You can always transform it later.)![image](https://user-images.githubusercontent.com/32034299/150281367-f783316d-8bef-4e0d-aaa5-1566b4f7d3fb.png)
-* Descriptive statistics
+  
+  ### Descriptive statistics
     * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
     * Output: https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/Descriptive%20Statistics%20and%20Plots.pdf
     * Categorical variables
@@ -144,7 +145,8 @@
       * Median and range or interquartile range (skewed data)
     * Measures of Central Tendency video: https://www.youtube.com/watch?v=kn83BA7cRNM&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
     * Measures of Spread video: https://www.youtube.com/watch?v=R4yfNi_8Kqw&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
-* Plots
+  
+  ### Plots
     * Categorical variables
       * Bar charts
       * Pareto charts
@@ -155,10 +157,12 @@
       * Scatterplots
     * Plots video: https://www.youtube.com/watch?v=HMkllhBI91Y&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=8
     * Correlation video: https://www.youtube.com/watch?v=GtV-VYdNt_g&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=10
-* Comparisons
+  
+  ### Comparisons
     * z-scores (standardization)
     * Video: https://www.youtube.com/watch?v=uAxyI_XfqXk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=20
-* Data screening
+  
+  ### Data screening
   * What is the general purpose of what you're trying to accomplish?
   * How does your purpose and your data source(s) affect the generalizability of your results?
   * What question(s) are you trying to answer?
@@ -174,7 +178,20 @@
   * Are there any data transformations which should take place?
   * Do any variables have missing data? How will you handle that?
   * Do any variables have outliers? How will you handle that?![image](https://user-images.githubusercontent.com/32034299/150282481-f34bf88f-9d7f-4c4a-a7f8-77368dbc126c.png)
-* Slido polls 5
+  
+  ### Reporting
+  
+  * Tips
+    * Always provide context for the numbers you're reporting
+      * What are the lowest and highest possible values?
+      * Imagine how hard a graph without any scale numbers or scale markers/indicators is to read.
+    * When reporting summary scales that were derived from multiple individual questions, provide the list of which questions were used to calculate the scale.
+  * Categorical variables
+    * See descriptive statistics and plots sections above
+  * Continuous variables
+    * See descriptive statistics and plots sections above
+  
+  ### Slido polls 5
   
 </details>
 
