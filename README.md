@@ -1,6 +1,7 @@
 # Clinical Informatics Education - Statistics Basics
 
 01/20/2022
+Slido: https://wall.sli.do/event/7gqUV9n9GN9GGY8SoGHbQQ?section=ea1df556-6a63-4aa7-a0ac-4fc810f44061
 
 ## Conflicts
 
