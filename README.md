@@ -87,6 +87,7 @@
   <summary>Expand</summary>
   
 * Levels of Measurement
+    * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
     * Nominal - mutually exclusive categories without particular order
     * Ordinal - mutually exclusive categories with order
     * Interval - equal intervals (distance between measurements)
@@ -95,6 +96,7 @@
     * Categorical vs Continuous
     * When in doubt, collect the highest level of measurement. (You can always transform it later.)![image](https://user-images.githubusercontent.com/32034299/150281367-f783316d-8bef-4e0d-aaa5-1566b4f7d3fb.png)
 * Descriptive statistics
+    * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
     * Categorical variables
       * Frequecy and percent
     * Continuous variables
