@@ -13,13 +13,23 @@
 
 ## Introduction
 
+<details>
+  <summary>Expand</summary>
+  
 * Christopher I. Macintosh, PhD, RN
 * I am currently a Clinical Informatics Analyst on the CTIS Health Information Technology (HIT) Safety Team.
 * I am an Adjunct Assistant Professor at the University of Utah College of Nursing.
 * I have worked for the last 5 years on the Terminology and Modeling Team at Intermountain.
 * I received my PhD from the University of Utah College of Nursing.
 * Before going to graduate school I worked in the OR at LDS Hospital, IMC, and the U of U. I also worked for a short time in home health and hospice.
+  
+</details>
 
 ## Relationship between informatics and statistics
 
+<details>
+  <summary>Expand</summary>
+  
 * Slides https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/InformaticsAndStatistics.pdf
+  
+</details>
