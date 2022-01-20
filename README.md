@@ -133,14 +133,7 @@
   <details>
     <summary>Expand</summary>
     
-    * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
-    * Nominal - mutually exclusive categories without particular order
-    * Ordinal - mutually exclusive categories with order
-    * Interval - equal intervals (distance between measurements)
-    * Ratio - equal intervals and a true zero
-    * Video: https://www.youtube.com/watch?v=LPHYPXBK_ks
-    * Categorical vs Continuous
-    * When in doubt, collect the highest level of measurement. (You can always transform it later.) 
+     
     
   </details>
   
