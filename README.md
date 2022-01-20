@@ -125,10 +125,12 @@
 <details>
   <summary>Expand</summary>
   
+  * filler
+  
   ### Levels of Measurement
   
     <details>
-    <summary>Expand</summary>
+      <summary>Expand</summary>
     
     * Illustration: https://www.statology.org/levels-of-measurement-nominal-ordinal-interval-and-ratio/
     * Nominal - mutually exclusive categories without particular order
@@ -144,7 +146,7 @@
   ### Descriptive statistics
   
     <details>
-    <summary>Expand</summary>
+      <summary>Expand</summary>
     
     * Dataset: https://openintrostat.github.io/oilabs-jamovi/02_intro_to_data/intro_to_data.html
     * Output: https://github.com/cmcntsh/clinical_informatics_education_statistics_basics/blob/main/Descriptive%20Statistics%20and%20Plots.pdf
@@ -161,7 +163,7 @@
   ### Plots
   
     <details>
-    <summary>Expand</summary>
+      <summary>Expand</summary>
     
     * Categorical variables
       * Bar charts
@@ -179,7 +181,7 @@
   ### Comparisons
   
     <details>
-    <summary>Expand</summary>
+      <summary>Expand</summary>
     
     * z-scores (standardization)
     * Video: https://www.youtube.com/watch?v=uAxyI_XfqXk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=20
