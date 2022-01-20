@@ -130,8 +130,8 @@
 
   ### Levels of Measurement
   
-  <details>
-    <summary>Expand</summary>
+    <details>
+      <summary>Expand</summary>
     
      
     
