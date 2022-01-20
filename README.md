@@ -120,12 +120,12 @@
   
 </details>
 
-## Some basic data skills
+## Some basic statistical concepts
 
 <details>
   <summary>Expand</summary>
   
-* Slido polls 4
+* nothing
 
 
   ### Creating tables in Excel
