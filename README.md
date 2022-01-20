@@ -104,7 +104,7 @@
     * When the Navigator window pops up, you can click through the available tables to see what you want. When you have the one you want click `Load`.
     * The data should import into a table in a new sheet.
       
-  </details>
+    </details>
   
   ### Create a pivot table from a table in Excel.
   
@@ -139,7 +139,7 @@
     * Categorical vs Continuous
     * When in doubt, collect the highest level of measurement. (You can always transform it later.)
       
-  </details>
+    </details>
   
   ### Descriptive statistics
   
@@ -156,7 +156,7 @@
     * Measures of Central Tendency video: https://www.youtube.com/watch?v=kn83BA7cRNM&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
     * Measures of Spread video: https://www.youtube.com/watch?v=R4yfNi_8Kqw&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=6
       
-  </details>
+    </details>
   
   ### Plots
   
